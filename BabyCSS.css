@@ -1,0 +1,81 @@
+#all{
+	width: 800px;
+	height: 800px;
+}
+img{
+	width: 800px;
+	height: 100px;
+}
+nav{
+  background-color: #DDD;
+  width: 800px;
+  height: 40px;
+  padding: 0px;
+	
+}
+nav ul{
+list-style-image: none;
+list-style-type: none;
+text-align: left;
+margin-right: 0px;
+padding-top: 12px;
+padding-left: 25px;	
+}
+nav li{
+	display: inline;
+	padding-right: 25px;
+	padding-left: 10px;
+	font-family: "宋体",arial;
+	font-weight: bold;
+}
+nav ul li a{
+	color: #00C;
+	text-decoration: none;
+}
+#content{
+	float: left;
+}
+article{
+	width: 500px;
+}
+hr{
+	color: #804000;
+}
+#pic1{
+	float: right;
+	width: 180px;
+	height: 150px;
+}
+#pic2{
+	float: left;
+	width: 180px;
+	height: 150px;
+}
+p{
+	text-indent: 35px;
+	margin-left: 10px;
+}
+#rightaside{
+	float: right;
+	width: 250px;
+	height: 500px;
+	background-color: #99AABB;
+	margin-left: 50px;
+	margin-top: 10px;
+	
+}
+#A{
+	margin-left: 50px;
+}
+#A li{
+	padding-top: 20PX;
+}
+h3{
+	margin-left: 80px;
+}
+
+font{
+	
+	
+	margin-left: 150px;
+}
